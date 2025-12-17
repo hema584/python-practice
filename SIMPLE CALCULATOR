@@ -1,0 +1,24 @@
+# 🧮 Simple Python Calculator
+
+A simple command-line calculator built with Python. This project is ideal for beginners who want to practice basic Python concepts such as functions, conditionals, and user input.
+
+---
+
+## 📌 Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Handles division by zero
+- Input validation for numbers
+
+---
+
+## 🛠️ Built With
+
+- Python 3
+
+---
+
+## 📂 Project Structure
