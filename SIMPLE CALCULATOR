@@ -22,3 +22,67 @@ A simple command-line calculator built with Python. This project is ideal for be
 ---
 
 ## 📂 Project Structure
+
+simple-python-calculator/
+│
+├── calculator.py
+└── README.md
+
+yaml
+Copy code
+
+---
+
+## ▶️ Getting Started
+
+### Prerequisites
+- Python 3 installed on your system
+
+Check your Python version:
+```bash
+python --version
+Installation & Usage
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/your-username/simple-python-calculator.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd simple-python-calculator
+Run the calculator:
+
+bash
+Copy code
+python calculator.py
+🧑‍💻 How It Works
+Choose an arithmetic operation from the menu.
+
+Enter two numbers when prompted.
+
+The program displays the result of the selected operation.
+
+📸 Sample Output
+mathematica
+Copy code
+Simple Calculator
+Select an operation:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+
+Enter choice (1/2/3/4): 3
+Enter first number: 6
+Enter second number: 4
+Result: 24
+🚀 Future Enhancements
+Loop for continuous calculations
+
+GUI version using Tkinter
+
+Scientific calculator features
+
+Web-based calculator
